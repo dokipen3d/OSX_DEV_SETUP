@@ -30,6 +30,7 @@ echo "LLVM+Clang+OpenMP Bin Path     : " ${CLANG_BIN}
 echo "LLVM+Clang+OpenMP Lib Path     : " ${CLANG_LIB}
 
 cd ~/code
+#https://github.com/llvm-mirror/openmp
 svn co http://llvm.org/svn/llvm-project/openmp/trunk openmp
 cd openmp/runtime
 mkdir build
