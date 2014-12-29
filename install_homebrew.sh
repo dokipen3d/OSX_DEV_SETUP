@@ -5,3 +5,4 @@ brew install libtool
 brew install autoconf
 brew install automake
 brew install cmake
+brew install ilmbase openexr freetype fontconfig ffmpeg opencolorio openimageio
