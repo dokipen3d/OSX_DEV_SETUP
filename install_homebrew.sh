@@ -4,5 +4,8 @@ brew install glfw3
 brew install libtool
 brew install autoconf
 brew install automake
+brew install coreutils
 brew install cmake
 brew install ilmbase openexr freetype fontconfig ffmpeg opencolorio openimageio
+brew install boost
+brew install sdl2
