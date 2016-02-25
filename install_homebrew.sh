@@ -9,3 +9,7 @@ brew install cmake
 brew install ilmbase openexr freetype fontconfig ffmpeg opencolorio openimageio
 brew install boost
 brew install sdl2
+
+//to get access to additional homebrew taps do this....
+//https://github.com/Homebrew/homebrew-science
+brew tap homebrew/homebrew-science
