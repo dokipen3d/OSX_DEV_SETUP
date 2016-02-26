@@ -13,6 +13,8 @@ brew install sdl2
 //to get access to additional homebrew taps do this....
 //https://github.com/Homebrew/homebrew-science
 brew tap homebrew/homebrew-science
+http://caskroom.io/
+brew cask create my-cask
 
 cairo
 cmake
