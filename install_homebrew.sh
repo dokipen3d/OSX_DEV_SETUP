@@ -15,6 +15,7 @@ brew install sdl2
 brew tap homebrew/homebrew-science
 http://caskroom.io/
 brew cask create my-cask
+https://github.com/caskroom/homebrew-cask/tree/master/Casks
 
 cairo
 cmake
